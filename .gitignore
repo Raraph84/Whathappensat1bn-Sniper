@@ -1,0 +1,6 @@
+node_modules/
+archive/
+.env
+.env.local
+id.txt
+emails.txt
